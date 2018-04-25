@@ -93,14 +93,13 @@ header {
   font-family: 'Open Sans', sans-serif;;
   background-color: #ededed;
   color: black;
-  margin:0 auto;
+  margin-top: 400px;
   padding-top: 100px;
   padding-bottom:100px;
 }
 .bodyCopy p{
   font-family: 'Open Sans', sans-serif;;
   color: black;
-  margin:0 auto;
 }
 .testimonial {
   font-family: 'Open Sans', sans-serif;;
@@ -156,8 +155,8 @@ footer {
   font-family: 'Open Sans', sans-serif;;
   background-color: #121212;
   color: yellow;
-  padding-top: 50px;
-  padding-bottom:50px;
+  padding-top: 40px;
+  padding-bottom:40px;
 }
 
 /******************************************
