@@ -90,7 +90,7 @@ header {
 
 .bodyCopy {
   background-color: #ededed;
-  font-size: 20px;
+  font-size: 12px;
   text-align: left;
   margin: 0 auto;
   padding: 100px;
@@ -179,7 +179,7 @@ footer {
   padding-bottom: 30px;
 }
 .social img {
-  padding: 25px;
+  padding: 30px;
 }
 
 /******************************************
