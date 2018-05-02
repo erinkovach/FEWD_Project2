@@ -95,7 +95,7 @@ header {
 .bodycopy {
   width: 80%;
   align: center;
-  font-size: 20px;
+  font-size: 16px;
   text-align: left;
   padding-top: 80px;
   padding-bottom: 80px;
@@ -162,7 +162,7 @@ h2 {
 }
 h3 {
   color: #121212;
-  font-size: 34px;
+  font-size: 28px;
   margin: 0 auto;
   display: block;
 }
